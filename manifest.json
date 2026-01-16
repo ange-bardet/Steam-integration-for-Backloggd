@@ -3,14 +3,14 @@
   "manifest_version": 3,
   "name": "Steam integration for Backloggd",
   "version": "1.0",
-  "homepage_url": "https://github.com/COwOkies/Steam-integration-for-Backloggd",
+  "homepage_url": "https://github.com/ange-bardet/Steam-integration-for-Backloggd",
   "icons": {
     "48": "icons/logo-48.png"
   },
   "content_scripts": [
     {
-      "matches": ["https://*.backloggd.com/games/*"],
-      "js": ["script.js"]
+      "matches": ["https://*.backloggd.com/*"],
+      "js": ["src/script.js"]
     }
   ],
   "browser_specific_settings": {

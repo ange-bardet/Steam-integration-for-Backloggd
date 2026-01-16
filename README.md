@@ -17,4 +17,4 @@ Using the steam api : https://api.steampowered.com/ISteamApps/GetAppList/v2/
 # Downloads 
 Firefox link : https://addons.mozilla.org/en-US/firefox/addon/steam-integration-backloggd/
 
-repo : https://github.com/COwOkies/Steam-integration-for-Backloggd/releases/download/builds/Steam-page-backloggd.zip 
+repo : https://github.com/ange-bardet/Steam-integration-for-Backloggd/releases/download/builds/Steam-page-backloggd.zip 
